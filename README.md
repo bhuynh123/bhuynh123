@@ -33,3 +33,7 @@ I’m a Data Science and Engineering student at Auburn University, passionate ab
 ---
 
 ## 📂 Featured Projects
+
+## 📫 Connect with Me
+Auburn, AL & Los Angeles, California
+
