@@ -36,6 +36,10 @@ I’m a Data Science and Engineering student at Auburn University, passionate ab
 
 https://github.com/bhuynh123/MLB-Regression-Analysis/tree/main
 
+https://github.com/bhuynh123/azure-data-pipeline
+
+https://github.com/bhuynh123/cs170-puzz
+
 ## 📫 Connect with Me
 Auburn, AL & Los Angeles, California
 
