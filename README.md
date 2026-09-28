@@ -34,6 +34,8 @@ I’m a Data Science and Engineering student at Auburn University, passionate ab
 
 ## 📂 Featured Projects
 
+https://github.com/bhuynh123/MLB-Regression-Analysis/tree/main
+
 ## 📫 Connect with Me
 Auburn, AL & Los Angeles, California
 
